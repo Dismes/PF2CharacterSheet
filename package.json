@@ -1,0 +1,23 @@
+{
+  "name": "pf2charactersheet",
+  "version": "1.0.0",
+  "description": "Used to create a pf2.0 character",
+  "main": "app.js",
+  "scripts": {
+    "test": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dismes/PF2CharacterSheet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dismes/PF2CharacterSheet/issues"
+  },
+  "homepage": "https://github.com/Dismes/PF2CharacterSheet#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0"
+  }
+}

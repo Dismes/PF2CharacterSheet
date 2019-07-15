@@ -1,0 +1,64 @@
+{
+    "ClassName": "Alchemist",
+    "HitDice": "8",
+    "Proficiencies": "Perception",
+    "SavingThrows": {
+        "Trained": "Will",
+        "Expert": "Fort, Reflex"
+    },
+    "Skills": "2",
+    "Weapons": {
+        "Trained": "Simple Alchemical*Bombs",
+        "Expert": ""
+    },
+    "Armor": {
+        "Trained": "Light",
+        "Expert": ""
+    },
+    "Signature Skill": [
+        {
+            "Skill": "Arcana"
+        },
+        {
+            "Skill": "Crafting"
+        },
+        {
+            "Skill": "Medicine"
+        }
+    ],
+    "ClassFeatures": {
+        "1": [
+            {
+                "FeatsEarned": "Alchemical Crafting"
+            },
+            {
+                "Feature": "Advanced Alchemy* You gain the Alchemical Crafting feat, even if you don’t meet that feat’s prerequisites, and you gain the four additional common 1st-level alchemical formulas that feat grants. You can use this feat to create common alchemical items as long as you have their formulas in your formula book, though their power is fleeting. You can create these items in two different ways, as described below. An alchemical item you create this way has the infused trait.First, during your daily preparations, you can create items for which you have the formulas. Creating items in this way requires spending 1 Resonance Point to create a batch of alchemical items of that type with the infused trait. You select how many items are in the batch, up to half the normal maximum batch size (half a typical batch is two items, but see the Crafting Trained Activities section). You don’t need to attempt a Crafting check to do this, and you ignore the number of days typically required to create the items and any requirements of alchemical reagents. You can’t overspend Resonance Points to create infused items in this way during your daily preparations. Second, you can create alchemical items with the Quick Alchemy action, described below."
+            },
+            {
+                "Feature": "Studied Resonance* Knowledge, rather than personality, fuels your interactions with alchemical and magical substances and devices. Your maximum number of Resonance Points is equal to your character level plus your Intelligence modifier (instead of your Charisma modifier)"
+            },
+            {
+                "Feature": "Alchemist Feats* At 1st level and every even-numbered level thereafter, you gain an alchemist class feat."
+            }
+        ],
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": "",
+        "7": "",
+        "8": "",
+        "9": "",
+        "10": "",
+        "11": "",
+        "12": "",
+        "13": "",
+        "14": "",
+        "15": "",
+        "16": "",
+        "17": "",
+        "18": "",
+        "19": "",
+        "20": ""
+    }
+}

@@ -1,0 +1,52 @@
+<h1>Welcome to Pathfinder 2.0 Charater sheet builder Version .firstVerison</h1>
+
+Name:<br>
+<input type="text" id="name" value="Pathfinder">
+<br>
+
+Race:<br>
+<select id="Race">
+    <option value="RaceA">RaceA</option>
+    <option value="RaceB">RaceB</option>
+    <option value="RaceC">RaceC</option>
+    <option value="RaceD">RaceD</option>
+</select>
+<br>
+Base Class:<br>
+<select id="BaseClass">
+    <option value="ClassA">ClassA</option>
+    <option value="ClassB">ClassB</option>
+    <option value="ClassC">ClassC</option>
+    <option value="ClassD">ClassD</option>
+</select>
+<br>
+Base Class level:<br>
+<input type="number" id="Level" value="1"><br>
+<button type="button"> Add another class</button>
+<br>
+Base Stats:<br>
+Str: <input type="number" name="StrStat" value="10"><br>
+Dex: <input type="number" name="DexStat" value="10"><br>
+Con: <input type="number" name="ConStat" value="10"><br>
+Int: <input type="number" name="IntStat" value="10"><br>
+Wis: <input type="number" name="WisStat" value="10"><br>
+Cha: <input type="number" name="ChaStat" value="10"><br>
+BackGround:<br>
+<select name="BackGround">
+    <option value="BackGroundA">BackGroundA</option>
+    <option value="BackGroundB">BackGroundB</option>
+    <option value="BackGroundC">BackGroundC</option>
+    <option value="BackGroundD">BackGroundD</option>
+</select>
+<br>
+
+<button onclick="getEverything()" type="sumbit"> Sumbit</button>
+ <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+<script>
+    function getEverything(){
+        console.log('reee')
+        console.log($("#name").val())
+        console.log($("#Race").val())
+        console.log($("#BaseClass :selected").text());
+    }
+</script>

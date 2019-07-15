@@ -1,0 +1,54 @@
+{
+    "Classes": [
+        {
+            "ClassName": "",
+            "HitDice": "",
+            "Prof": "",
+            "Saving Throws": [
+                {
+                    "Fort": "",
+                    "Reflex": "",
+                    "Will": ""
+                }
+            ],
+            "Skills": "",
+            "Weapons": [
+                {}
+            ],
+            "Armor": [
+                {}
+            ],
+            "Signature Skill": [
+                {}
+            ],
+            "ClassFeatures": [
+                {}
+            ]
+        },
+        {
+            "ClassName": "",
+            "HitDice": "",
+            "Prof": "",
+            "Saving Throws": [
+                {
+                    "Fort": "",
+                    "Reflex": "",
+                    "Will": ""
+                }
+            ],
+            "Skills": "",
+            "Weapons": [
+                {}
+            ],
+            "Armor": [
+                {}
+            ],
+            "Signature Skill": [
+                {}
+            ],
+            "ClassFeatures": [
+                {}
+            ]
+        }
+    ]
+}

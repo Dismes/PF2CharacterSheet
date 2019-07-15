@@ -1,0 +1,35 @@
+{
+    "ClassName": "",
+    "HitDice": "",
+    "Proficiencies": "",
+    "SavingThrows": {
+        "Trained": "",
+        "Expert": ""
+    },
+    "Skills": "",
+    "Weapons": {
+        "Trained": "",
+        "Expert": ""
+    },
+    "Armor": {
+        "Trained": "",
+        "Expert": ""
+    },
+    "Signature Skill": [
+        {
+            "Skill": ""
+        },
+        {
+            "Skill": ""
+        },
+        {
+            "Skill": ""
+        }
+    ],
+    "ClassFeatures": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""
+    }
+}
